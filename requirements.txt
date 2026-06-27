@@ -1,5 +1,6 @@
-streamlit
-numpy
-opencv-python-headless
+fastapi
+uvicorn
+python-multipart
 pillow
-tensorflow-lite
+onnxruntime
+numpy
